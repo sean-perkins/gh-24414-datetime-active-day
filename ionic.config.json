@@ -1,0 +1,7 @@
+{
+  "name": "gh-24414-datetime-active-day",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
